@@ -1,0 +1,23 @@
+{
+  "name": "securezone",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.12.2",
+    "quasar": "^2.3.3",
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@quasar/vite-plugin": "^1.0.2",
+    "@unocss/preset-attributify": "^0.15.5",
+    "@unocss/preset-uno": "^0.15.5",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "sass": "1.32.0",
+    "unocss": "^0.15.5",
+    "vite": "^2.6.4"
+  }
+}
